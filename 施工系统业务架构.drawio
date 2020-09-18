@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T07:55:32.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="70MMuf10BN4Xw65EzG1S" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T07:56:30.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4W1U16S2zU_LzXEYoYHN" version="13.7.3" type="github">
   <diagram id="vOUrMngWcMrFXS49JwPm" name="Page-1">
     <mxGraphModel dx="946" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3s_Is7sOF_pp1LU2TNVd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="150" width="780" height="100" as="geometry" />
+          <mxGeometry x="100" y="150" width="820" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3s_Is7sOF_pp1LU2TNVd-2" value="接口层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="110" y="170" width="20" height="70" as="geometry" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="8iSFWknNpT5dTngs-xbl-7" value="作业区域接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="660" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8iSFWknNpT5dTngs-xbl-8" value="供电区域接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="780" y="160" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
