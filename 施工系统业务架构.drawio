@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T07:58:21.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="32l6NWJDYTzMi2rSHf7I" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T08:00:29.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="yGh2XRMpOu8XWaN5BbEX" version="13.7.3" type="github">
   <diagram id="vOUrMngWcMrFXS49JwPm" name="Page-1">
     <mxGraphModel dx="946" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,32 +40,29 @@
         <mxCell id="3s_Is7sOF_pp1LU2TNVd-23" value="领域层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="110" y="285" width="20" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="GR0XFzsMtlSF94ITTyiH-1" value="域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="180" y="280" width="80" height="70" as="geometry" />
+        <mxCell id="GR0XFzsMtlSF94ITTyiH-1" value="停送电通知单域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="170" y="280" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GR0XFzsMtlSF94ITTyiH-2" value="分销域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="GR0XFzsMtlSF94ITTyiH-2" value="工作票域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="180" y="370" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GR0XFzsMtlSF94ITTyiH-4" value="订单域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="300" y="280" width="80" height="70" as="geometry" />
+        <mxCell id="GR0XFzsMtlSF94ITTyiH-4" value="调令域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="333.5" y="280" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GR0XFzsMtlSF94ITTyiH-5" value="购物车域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="420" y="280" width="80" height="70" as="geometry" />
+        <mxCell id="GR0XFzsMtlSF94ITTyiH-5" value="计划域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GR0XFzsMtlSF94ITTyiH-6" value="库存域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="540" y="280" width="80" height="70" as="geometry" />
+        <mxCell id="GR0XFzsMtlSF94ITTyiH-6" value="作业域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="630" y="280" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GR0XFzsMtlSF94ITTyiH-10" value="物流域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="670" y="280" width="80" height="70" as="geometry" />
+        <mxCell id="GR0XFzsMtlSF94ITTyiH-10" value="基础信息域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="620" y="370" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GR0XFzsMtlSF94ITTyiH-11" value="事件分析域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="300" y="370" width="80" height="70" as="geometry" />
+          <mxGeometry x="310" y="370" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GR0XFzsMtlSF94ITTyiH-13" value="会员域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="420" y="370" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="GR0XFzsMtlSF94ITTyiH-14" value="支付域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="540" y="370" width="80" height="70" as="geometry" />
+        <mxCell id="GR0XFzsMtlSF94ITTyiH-13" value="行车通告域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="470" y="370" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GR0XFzsMtlSF94ITTyiH-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="100" y="480" width="820" height="120" as="geometry" />
